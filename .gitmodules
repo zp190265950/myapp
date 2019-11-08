@@ -1,0 +1,6 @@
+[submodule "myapp1"]
+	path = myapp1
+	url = git@github.com:zp190265950/myapp1.git
+[submodule "xiangmu"]
+	path = xiangmu
+	url = git@github.com:zp190265950/yijia.git
